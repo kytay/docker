@@ -17,6 +17,13 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Windows scripts
+*.bat
+
+# Development assets
+*\.vscode
+*.code-workspace
+
 # =========================
 # Operating System Files
 # =========================
